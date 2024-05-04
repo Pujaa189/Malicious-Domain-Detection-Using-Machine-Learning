@@ -1,4 +1,4 @@
-Malicious Domain Detection using Machine Learning
+  MALICIOUS DOMAIN DETECTION USING MACHINE LEARNING
 
 **♦ Growing online presence of harmful websites poses significant threats, highlighting the importance
 of early detection to mitigate risks.**
